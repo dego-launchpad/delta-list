@@ -1,0 +1,1 @@
+throw new Error('some file was deleted!')

@@ -1,0 +1,40 @@
+[{
+  "id":"_demo",
+  "pool_type":"public",
+  "contract_address":"0xf85b26ed80b71201ada72bd39332268f46243705",
+  "title":"Test Demo",
+  "summary":"some summary",
+  "social_accounts":[
+    {
+      "type":"twitter",
+      "address":"https://twitter.com/"
+    },
+    {
+      "type":"discord",
+      "address":"https://discord.com/"
+    },
+    {
+      "type":"website",
+      "address":"https://www.google.com/"
+    }
+  ],
+  "chain_info":{
+    "id":97,
+    "name":"BSCTest"
+  },
+  "nft_name":"Test Demo NFT",
+  "cost_token":{
+    "name":"USDT",
+    "symbol":"USDT"
+  },
+  "target_token":{
+    "name":"TargetToken",
+    "symbol":"TT"
+  },
+  "unlock_method":{
+    "method":"Linear Unlock",
+    "desc":"desc..."
+  },
+  "start_time":"2023-08-02T02:00:00+08:00",
+  "end_time":"2023-08-06T20:00:00+08:00"
+}]

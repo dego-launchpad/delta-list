@@ -1,0 +1,48 @@
+[
+  {
+    "id":"banana",
+    "project_type":"brc-20",
+    "pool_type":"public",
+    "contract_address":"0xB860A162Bbf1d1ceD33DED51A586DF1277C9C6F1",
+    "title":"BANANA",
+    "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
+    "social_accounts":[
+      {
+        "type":"website",
+        "address":"https://banana.market/"
+      },
+      {
+        "type":"twitter",
+        "address":"https://twitter.com/bnansat"
+      },
+      {
+        "type":"medium",
+        "address":"https://medium.com/@bnansat"
+      },
+      {
+        "type":"telegram",
+        "address":"https://t.me/bnan_market"
+      }
+    ],
+    "chain_info":{
+      "id":1,
+      "name":"Ethereum Mainnet"
+    },
+    "nft_name":"Banana Voucher",
+    "cost_token":{
+      "name":"ETH",
+      "symbol":"ETH"
+    },
+    "target_token":{
+      "name":"BNAN",
+      "symbol":"BNAN"
+    },
+    "unlock_method":{
+      "method":"OneTime Unlock",
+      "desc":"OneTime Unlock"
+    },
+    "start_time":"2023-12-28T00:00:00+00:00",
+    "end_time":"2024-01-05T08:00:00+00:00",
+    "expiration_time":"2024-01-18T00:00:00+00:00"
+  }
+]
