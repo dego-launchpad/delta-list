@@ -3,7 +3,7 @@
     "id":"banana",
     "project_type":"brc-20",
     "pool_type":"public",
-    "contract_address":"0xB860A162Bbf1d1ceD33DED51A586DF1277C9C6F1",
+    "contract_address":"0x995d03e3ba542b1e59d701c058b850025035559f",
     "title":"DELTA STAKING POOL",
     "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
     "social_accounts":[
@@ -43,13 +43,13 @@
     },
     "start_time":"2023-12-28T00:00:00+00:00",
     "end_time":"2024-01-05T08:00:00+00:00",
-    "expiration_time":"2024-01-18T00:00:00+00:00"
+    "expiration_time":"2025-01-05T08:00:00+00:00"
   },
   {
     "id":"banana-lucky",
     "project_type":"brc-20-lucky",
     "pool_type":"private",
-    "contract_address":"0x49b8f012740Fb4a6115Dd4dD683125A0C0404A41",
+    "contract_address":"0xc6bd7944c4eb61a4ea1dcf97ad23bcae4a7ba77f",
     "title":"WHITELIST POOL",
     "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
     "social_accounts":[
@@ -89,6 +89,6 @@
     },
     "start_time":"2023-12-28T00:00:00+00:00",
     "end_time":"2024-01-05T08:00:00+00:00",
-    "expiration_time":"2024-01-18T00:00:00+00:00"
+    "expiration_time":"2025-01-05T08:00:00+00:00"
   }
 ]
