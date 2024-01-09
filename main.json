@@ -47,6 +47,7 @@
   },
   {
     "id":"banana-lucky",
+    "claim_project_id":"banana",
     "project_type":"brc-20-lucky",
     "pool_type":"private",
     "contract_address":"0xc6bd7944c4eb61a4ea1dcf97ad23bcae4a7ba77f",
