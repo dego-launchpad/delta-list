@@ -79,8 +79,19 @@ export interface Project {
    * erc-20: target token is ERC20 token,
    * brc-20: target token is BRC20 token,
    * brc-20-lucky: target token is BRC20 token and will be a lucky pool just for whitelist users
+   * brc-20-collection: target token is BRC20 token and will be a collection pool
+   * brc-20-collection-lucky: target token is BRC20 token and will be a collection pool just for whitelist users
+   * brc-20-token: target token is BRC20 token and will be a token pool without dego nft
+   * brc-20-token-lucky: target token is BRC20 token and will be a token pool without dego nft just for whitelist users
    */
-  project_type: 'erc-20' | 'brc-20' | 'brc-20-lucky'
+  project_type:
+    | 'erc-20'
+    | 'brc-20'
+    | 'brc-20-lucky'
+    | 'brc-20-collection'
+    | 'brc-20-collection-lucky'
+    | 'brc-20-token'
+    | 'brc-20-token-lucky'
 
   /**
    * project contract address
@@ -165,6 +176,11 @@ export interface Project {
    * the time when nft will be expired
    */
   expiration_time?: string
+
+  /**
+   * brc-20 collection project'time stop set btc address
+   */
+  deadline?: string
 }
 ```
 

@@ -1,5 +1,52 @@
 [
   {
+    "id":"banana-genesis",
+    "project_type":"brc-20-collection",
+    "collection_web_address":"https://banana.market/",
+    "pool_type":"public",
+    "contract_address":"0xd2418907c42ba22cc66379852813ab9dc7ace84e",
+    "title":"Genesis NFT Whitelist",
+    "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
+    "social_accounts":[
+      {
+        "type":"website",
+        "address":"https://banana.market/"
+      },
+      {
+        "type":"twitter",
+        "address":"https://twitter.com/bnansat"
+      },
+      {
+        "type":"medium",
+        "address":"https://medium.com/@bnansat"
+      },
+      {
+        "type":"telegram",
+        "address":"https://t.me/bnan_market"
+      }
+    ],
+    "chain_info":{
+      "id":1,
+      "name":"Ethereum Mainnet"
+    },
+    "nft_name":"Banana Voucher",
+    "cost_token":{
+      "name":"ETH",
+      "symbol":"ETH"
+    },
+    "target_token":{
+      "name":"Genesis Simians",
+      "symbol":"Genesis Simians"
+    },
+    "unlock_method":{
+      "method":"OneTime Unlock",
+      "desc":"OneTime Unlock"
+    },
+    "start_time":"2024-01-16T00:00:00+00:00",
+    "end_time":"2024-01-17T08:05:00+00:00",
+    "deadline":"2024-01-18T08:00:00+00:00",
+    "expiration_time":"2025-01-18T08:00:00+00:00"
+  },{
     "id":"banana",
     "project_type":"brc-20",
     "pool_type":"public",
