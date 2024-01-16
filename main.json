@@ -35,8 +35,8 @@
       "symbol":"ETH"
     },
     "target_token":{
-      "name":"Genesis Simians",
-      "symbol":"Genesis Simians"
+      "name":"Genesis NFT",
+      "symbol":"Genesis NFT"
     },
     "unlock_method":{
       "method":"OneTime Unlock",
