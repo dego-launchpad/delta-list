@@ -3,6 +3,7 @@ export  interface Project {
   pool_type?:'public'|'private'
   contract_address?:string
   title?:string
+  version?:'old'|'new'
   summary?:string
   social_accounts?:{
     type:string
