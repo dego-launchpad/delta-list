@@ -31,6 +31,12 @@ export interface Project {
   pool_type: 'public' | 'private'
 
   /**
+   * old | new
+   */
+  version: 'old' | 'new'
+  
+
+  /**
    * project name
    */
   title: string
