@@ -4,6 +4,7 @@
     "project_type":"brc-20-collection",
     "collection_web_address":"https://banana.market/",
     "pool_type":"public",
+    "version":"old",
     "contract_address":"0xd2418907c42ba22cc66379852813ab9dc7ace84e",
     "title":"Genesis NFT Whitelist",
     "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
@@ -50,6 +51,7 @@
     "id":"banana",
     "project_type":"brc-20",
     "pool_type":"public",
+    "version":"old",
     "contract_address":"0x995d03e3ba542b1e59d701c058b850025035559f",
     "title":"DELTA STAKING POOL",
     "summary":"BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
@@ -94,6 +96,7 @@
   },
   {
     "id":"banana-lucky",
+    "version":"old",
     "claim_project_id":"banana",
     "project_type":"brc-20-lucky",
     "pool_type":"private",
