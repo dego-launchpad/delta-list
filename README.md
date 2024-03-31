@@ -22,6 +22,7 @@ Add project information with the following format in [/main.json](https://github
   "id":"_demo",
   "project_type":"brc-20",
   "pool_type":"public",
+  "version":"old",
   "contract_address":"******",
   "title":"Test Demo",
   "summary":"some summary",
@@ -102,6 +103,11 @@ export interface Project {
    * public | private
    */
   pool_type: 'public' | 'private'
+
+  /**
+   * old | new
+   */
+  version: 'old' | 'new'
 
   /**
    * project name
