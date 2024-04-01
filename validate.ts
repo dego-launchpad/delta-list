@@ -33,7 +33,7 @@ export interface Project {
   /**
    * old | new
    */
-  version: 'old' | 'new'
+  version: 'normal' | 'ticket'
   
 
   /**
