@@ -145,7 +145,7 @@
     "claim_project_id": "ticket-test-f",
     "project_type": "ticket-whitelist",
     "pool_type": "private",
-    "contract_address": "0xc6bd7944c4eb61a4ea1dcf97ad23bcae4a7ba77f",
+    "contract_address": "0x9717B709d51417CF7b665A02cCef21ff4c3D7421",
     "title": "ticket-test-f",
     "summary": "BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
     "social_accounts": [
@@ -192,7 +192,7 @@
     "claim_project_id": "ticket-test-s",
     "project_type": "ticket-stake",
     "pool_type": "private",
-    "contract_address": "0xc6bd7944c4eb61a4ea1dcf97ad23bcae4a7ba77f",
+    "contract_address": "0x9717B709d51417CF7b665A02cCef21ff4c3D7421",
     "title": "ticket-test-s",
     "summary": "BANANA is the First Community-driven Asset Launchpad on Bitcoin，providing full-process asset management tools and services based on the BTC ecosystem.",
     "social_accounts": [
