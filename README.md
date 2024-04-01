@@ -105,11 +105,6 @@ export interface Project {
   pool_type: 'public' | 'private'
 
   /**
-   * normal | ticket
-   */
-  version: 'normal' | 'ticket'
-
-  /**
    * project name
    */
   title: string
