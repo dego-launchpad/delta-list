@@ -18,7 +18,7 @@ export interface Project {
    * brc-20: target token is BRC20 token,
    * brc-20-lucky: target token is BRC20 token and will be a lucky pool just for whitelist users
    */
-  project_type: 'erc-20' | 'brc-20' | 'brc-20-lucky'
+  project_type: 'erc-20' | 'brc-20' | 'brc-20-lucky' | 'ticket-whitelist' | 'ticket-stake'
 
   /**
    * project contract address
@@ -29,12 +29,6 @@ export interface Project {
    * public | private
    */
   pool_type: 'public' | 'private'
-
-  /**
-   * old | new
-   */
-  version: 'normal' | 'ticket'
-  
 
   /**
    * project name
