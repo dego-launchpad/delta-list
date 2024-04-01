@@ -1,4 +1,4 @@
-export  interface Project {
+export interface Project {
   id?:string,
   pool_type?:'public'|'private'
   contract_address?:string
