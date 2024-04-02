@@ -167,8 +167,8 @@
       }
     ],
     "chain_info": {
-      "id": 1,
-      "name": "Ethereum Mainnet"
+      "id": 1123,
+      "name": "B² Haven Testnet"
     },
     "nft_name": "Banana Voucher",
     "cost_token": {
@@ -214,8 +214,8 @@
       }
     ],
     "chain_info": {
-      "id": 1,
-      "name": "Ethereum Mainnet"
+      "id": 1123,
+      "name": "B² Haven Testnet"
     },
     "nft_name": "Banana Voucher",
     "cost_token": {
